@@ -47,5 +47,6 @@ An end-to-end machine learning model engineered to predict drinking water safety
 
 ## Contact and Professional Networks
 
-* **LinkedIn:** [Maria Alhejji on LinkedIn](www.linkedin.com/in/maria-alhejji888)
+* **LinkedIn:** [Maria Alhejji on LinkedIn](www.linkedin.com/in/maria-alhejji888
+)
 * **Professional Email:** [mariaalhejji1@gmail.com](mailto:mariaalhejji1@gmail.com)
